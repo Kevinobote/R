@@ -1,0 +1,11 @@
+Package: LPP
+Type: Package
+Title: What the Package Does (Linear Programming Problem)
+Version: 0.1.0
+Author: Hineni Obote
+Maintainer: The package maintainer <omoshk49@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
